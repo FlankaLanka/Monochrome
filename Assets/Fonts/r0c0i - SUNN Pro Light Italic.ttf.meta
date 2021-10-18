@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 0a504bb890e003a4b85fc951ce8c04ba
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - r0c0i SUNN Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1898b472859330f4db9f4d30571dc491, type: 3}
+  - {fileID: 12800000, guid: 62d13ffb359398e4e95eec408437191a, type: 3}
+  - {fileID: 12800000, guid: c1ba3e9cbda5c7948b96b14aa4a8969d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5206159239116951002
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2714056448854720260, guid: b214f50d38643334fad43f9e31b708ec, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 959c38c6569096643ac782c91014a15c, type: 3}
+    - target: {fileID: 3060273388378209461, guid: b214f50d38643334fad43f9e31b708ec, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -14.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 3060273388378209461, guid: b214f50d38643334fad43f9e31b708ec, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 3060273388378209461, guid: b214f50d38643334fad43f9e31b708ec, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.2324953
+      objectReference: {fileID: 0}
+    - target: {fileID: 3060273388378209461, guid: b214f50d38643334fad43f9e31b708ec, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3060273388378209461, guid: b214f50d38643334fad43f9e31b708ec, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3060273388378209461, guid: b214f50d38643334fad43f9e31b708ec, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.38268343
+      objectReference: {fileID: 0}
+    - target: {fileID: 3060273388378209461, guid: b214f50d38643334fad43f9e31b708ec, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.92387956
+      objectReference: {fileID: 0}
+    - target: {fileID: 3060273388378209461, guid: b214f50d38643334fad43f9e31b708ec, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3060273388378209461, guid: b214f50d38643334fad43f9e31b708ec, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3060273388378209461, guid: b214f50d38643334fad43f9e31b708ec, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3060273388378209461, guid: b214f50d38643334fad43f9e31b708ec, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 3060273388378209461, guid: b214f50d38643334fad43f9e31b708ec, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.1657333
+      objectReference: {fileID: 0}
+    - target: {fileID: 3060273388378209461, guid: b214f50d38643334fad43f9e31b708ec, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.9023072
+      objectReference: {fileID: 0}
+    - target: {fileID: 6134581276051772244, guid: b214f50d38643334fad43f9e31b708ec, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.11299282
+      objectReference: {fileID: 0}
+    - target: {fileID: 6134581276051772244, guid: b214f50d38643334fad43f9e31b708ec, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.43092054
+      objectReference: {fileID: 0}
+    - target: {fileID: 6134581276051772244, guid: b214f50d38643334fad43f9e31b708ec, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6134581276051772244, guid: b214f50d38643334fad43f9e31b708ec, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6134581276051772244, guid: b214f50d38643334fad43f9e31b708ec, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 9.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 6134581276051772244, guid: b214f50d38643334fad43f9e31b708ec, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 6.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 6134581276051772244, guid: b214f50d38643334fad43f9e31b708ec, type: 3}
+      propertyPath: m_Size.x
+      value: 2.3968625
+      objectReference: {fileID: 0}
+    - target: {fileID: 6134581276051772244, guid: b214f50d38643334fad43f9e31b708ec, type: 3}
+      propertyPath: m_Size.y
+      value: 0.19797969
+      objectReference: {fileID: 0}
+    - target: {fileID: 8742375879785350738, guid: b214f50d38643334fad43f9e31b708ec, type: 3}
+      propertyPath: m_Name
+      value: PaintDiagWall5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b214f50d38643334fad43f9e31b708ec, type: 3}
